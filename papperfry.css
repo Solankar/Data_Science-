@@ -1,0 +1,145 @@
+nav{
+    background-color: white;
+}
+
+li{
+    color: black;
+    display: inline;
+}
+
+hr{
+    margin-left: 25px;
+    margin-right: 1050px;
+    text-align: start;
+}
+
+input{ 
+    margin-left: 25px;
+    margin-bottom: -40px;
+    border: none;
+}
+
+i{
+    font-size: 30px;
+    float: right;
+    color: grey;
+    padding-right: 40px;
+}
+
+.sign{
+    float: right;
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+}
+
+.font{
+    float: right;
+    color: #ff7035;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    margin-right: 15px;
+}
+
+li,a{
+    color: grey;
+    padding: 0px;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 10;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 10px;
+}
+
+.b{
+    margin-left: 120px;
+}
+
+.n2{
+    background-color: rgb(83, 81, 81);
+    padding: 13px;
+}
+
+.c{
+    color: white;
+    font-weight: 100;
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+
+h2{
+    text-align: center;
+    color: #9d6a37;
+    font-family: "Poppins", sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+p1{
+    color:#ff7035;
+    font-family: "Poppins", sans-serif;
+    margin-top: 12px;
+    font-size: .875rem;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.main{
+    padding-top: 16px;
+}
+
+.logo img{
+    align-items: center;
+    justify-content: center;
+    margin-top: -30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.card{
+    margin-left: 10px;
+    display: inline-block;
+}
+
+p{
+    color: rgb(83, 81, 81);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+ .card h2{
+    text-align: center;
+    color: #9d6a37;
+    font-family: "Poppins", sans-serif;
+    font-size: 20%;
+}
+
+.care .l1{
+   float: left;
+   width: 49.5%;
+   height: 200px;
+}
+
+.care .l2{
+    float: right;
+    width: 49.5%;
+    height: 200px;
+}
+/*
+.shop h2{
+    margin-top: 30px;
+    text-align: center;
+    color: #9d6a37;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.shop img{
+    margin-left: 10px;
+    display: inline-block;
+}
+*/
